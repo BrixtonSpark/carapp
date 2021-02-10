@@ -6,9 +6,12 @@ h1 {
     background-color: #a52a2a;
 }
 
-.block1 {
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 200px;
+.container {
+    width: 1350px;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: normal;
+    color: #000000;
 }
