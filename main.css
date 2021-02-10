@@ -1,3 +1,7 @@
+body {
+    font-style: normal;
+}
+
 h1 {
     font-size: 30px;
     font-weight: bold;
@@ -6,12 +10,40 @@ h1 {
     background-color: #a52a2a;
 }
 
-.container {
-    width: 1350px;
+h2 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #ffffff;
+    background-color: black;
 }
 
-h2 {
+.container {
+    width: 1300px;
+}
+
+p {
     font-size: 18px;
     font-weight: normal;
     color: #000000;
+    text-align: left;
+}
+
+a {
+    color: blue;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.border {
+    border: black 2px dashed;
+}
+
+.block1 {
+    width: auto;
+    text-align: center;
+}
+
+.text {
+    font-weight: normal;
 }
